@@ -1,0 +1,1 @@
+here we will have the verilog .v files, to synthesize, the set of folders must be one for each .v
