@@ -1,2 +1,6 @@
 # Qflow_Synthesis_physical_implementation
-Se realiza una revision y uso general de la herramienta Qflow, sus comandos, ysu estrcutura de proyecto. Se analizan archivos de implementacion para calcular sus retardos, caminos criticos, numero de compuertas entre otros.
+# EIE UCR
+## Brandon Esquivel Molina
+
+A general review and use of the Qflow tool, its commands, and its project structure is made.
+Implementation files are analyzed to calculate their delays, critical paths, number of gates, among others.
