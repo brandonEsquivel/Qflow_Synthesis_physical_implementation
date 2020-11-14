@@ -960,9 +960,9 @@ Finding unused cells or wires in module \arbiter..
 10. Executing BLIF backend.
 
 End of script. Logfile hash: 85ec0f2097
-CPU: user 0.26s system 0.02s, MEM: 37.18 MB total, 10.02 MB resident
+CPU: user 0.26s system 0.01s, MEM: 37.18 MB total, 10.19 MB resident
 Yosys 0.7 (git sha1 61f6811, gcc 6.2.0-11ubuntu1 -O2 -fdebug-prefix-map=/build/yosys-OIL3SR/yosys-0.7=. -fstack-protector-strong -fPIC -Os)
-Time spent: 14% 14x opt_clean (0 sec), 13% 1x share (0 sec), ...
+Time spent: 13% 14x opt_clean (0 sec), 13% 15x opt_expr (0 sec), ...
 Cleaning up output syntax
 Cleaning Up blif file syntax
 Running blifFanout (iterative)
@@ -1022,7 +1022,7 @@ Files:
 Running blif2Verilog.
 Running blif2BSpice.
 Running spi2xspice.py
-Synthesis script ended on sáb 14 nov 10:36:47 CST 2020
+Synthesis script ended on sáb 14 nov 12:27:59 CST 2020
 Running blif2cel.tcl
 Loaded LEF file (/usr/share/qflow/tech/osu050/osu050_stdcells.lef) for reading...
 Loaded BLIF file (/home/bran/Documentos/repositories/Qflow_Synthesis_physical_implementation/arbiter/synthesis/arbiter.blif) for reading ...
@@ -1582,7 +1582,7 @@ Files:
 
 Running blif2Verilog.
 Running blif2BSpice.
-Placement script ended on sáb 14 nov 10:36:49 CST 2020
+Placement script ended on sáb 14 nov 12:28:01 CST 2020
 ----------------------------------------------
 Vesta static timing analysis tool
 (c) 2013-2017 Tim Edwards, Open Circuit Design
